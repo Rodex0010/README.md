@@ -14,12 +14,15 @@ To use the Sorting Hat script, follow these steps:
 
 		python sorting_hat.py input.csv output.csv
   
-Replace 'input.csv' with the path to your input CSV file and 'output.csv' with the desired output file name
+Replace 'input.csv' with the path to your input CSV file and 'output.csv' with the desired output file name	
 
-#CSV Report
+#CSV Report	
+
 The script generates a CSV report containing the following columns:
 
-name: Student's name
-house: Assigned Hogwarts house
+name: Student's name	
+
+house: Assigned Hogwarts house	
+
 grade: Assigned grade based on birthdate
 
